@@ -1,0 +1,124 @@
+#menu{
+    color:white;
+    font-size: large;
+    margin-top: 0%;
+    text-align: center;
+    border-radius: 40%;
+    }
+li
+{display: inline-block;
+    color:black;
+margin-left: auto;
+
+padding: 10px;
+color: white;
+}
+body{
+    background-image: url(senso-ji-1447404_1280.jpg);
+background-size: 100%;
+ 
+    text-align: center;
+
+background-repeat: no-repeat;
+}
+    #pieddepage{height: 170px;
+        background-color: skyblue;
+    
+        color: white;
+        width: 1300px;
+        font-size: x-large;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+       
+     }
+     
+     #logotwitter{width: 40px;
+        height: 40px ;
+        margin-top: 20px;}
+    
+        #logoinstagram{width: 40px;
+        height: 40px;
+        margin-top: 20px;   
+     }
+    
+    #logofacebook{width: 40px;
+       height: 40px;
+       margin-top: 20px;}
+   
+ #nouscontacter{
+    color: rgb(42, 93, 95);
+        text-align: center;
+        margin-top: 0px;
+       display: block;
+       text-decoration: underline;
+        }
+       #contenu{
+        color:rgb(42, 93, 95);
+        font-size: 30px;
+    text-align: center;
+    height: 1000px;
+    width: 1300PX; 
+     }
+        #Tajmahal{
+            font-size: x-large;
+            background-color: palevioletred;
+          }
+            
+            
+            #Senso-ji{
+                font-size: x-large;
+            text-decoration: underline;
+            
+            }
+            #Maldives{
+                font-size: x-large;
+                background-color: green;
+            }
+                a{
+            color: white;
+            text-decoration: none;
+            
+                }
+                #GLOBETROTTER{
+                    width: 150PX;
+                    height: 150px;
+                    align-self: center;
+                    color: rgb(42, 93, 95);
+                }
+               
+                 p{ margin: auto;
+            text-align: center;
+     padding: 50px;
+         font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            font-size: xx-large;
+           color:white;
+             display: inline-block;
+        }
+            
+        #Burjkhalifa{font-size: x-large;
+            background-color: orange;
+        text-decoration: none;
+            color: rgb(42, 93, 95);
+            
+           }
+           #Tajmahal{
+           font-size: x-large;
+           color: rgb(42, 93, 95);}    
+          
+           #Accueil{background-color: mediumvioletred;
+            text-decoration: none;
+font-size: x-large;}
+           
+#images{text-align: center;
+            margin-right: 30%;
+            margin-left: 30%;
+         background-color: skyblue;
+             color: white;
+             font-size: xx-large;
+             font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+         margin-top: 0%;}
+         #sensoji{width: 300px;
+            float: left;
+            height: 300px;
+            padding: 10px;
+        }
+         

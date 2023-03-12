@@ -1,0 +1,111 @@
+#entete{
+    background-color: skyblue;
+    color: black;
+    font-size: 70px;
+     text-align: center;
+    height:70px ;}
+
+    #menu{
+    color:white;
+    font-size: large;
+    margin-top: 0%;
+    text-align: center; }
+
+ li
+{display: inline-block;
+    color:black;
+margin-left: auto;
+padding: 10px;
+color: white;}
+
+img{width: 600px;
+    height: 300px;}
+
+p{ 
+font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 90px;
+    text-align: center;
+    padding: 80px;
+    padding-right: 5%;
+   color: white;
+    height: 320px;}
+
+ body{
+    background-color: rgb(0, 170, 255);
+    background-size: 70%;
+    background-size: cover;
+    text-align: center;
+    background-repeat: no-repeat;}
+
+ #IMGGAUCHE{width: 600px;
+    height:600px;
+    float:left;
+    margin-left: 0%;
+    padding-top: 8%;}
+
+ #IMGDROITE{width: 600px;
+    height:600px;
+    float: right;
+    margin-right: 0%;
+    padding-top: 8%;}
+ 
+ #pieddepage{height: 170px;
+    background-color:skyblue;
+     color: white;
+    width: 1300px;
+    font-size: x-large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 60%;
+    margin-bottom: 0%;}
+ 
+#logotwitter{width: 40px;
+    height: 40px ;
+    margin-top: 20px; }
+ 
+#logoinstagram{width: 40px;
+    height: 40px;
+    margin-top: 20px;}
+
+#logofacebook{width: 40px;
+   height: 40px;
+   margin-top: 20px;}
+
+#nouscontacter{color: rgb(42, 93, 95);
+    text-align: center;
+    margin-top: 0px;
+   display: block;
+   text-decoration: underline;}
+   
+#contenu{ color:black;
+font-size: 50px;
+padding-top: 5%;}
+    
+ #Accueil{color: rgb(42, 93, 95);
+        font-size: x-large;
+        background-color: whitesmoke;
+        text-decoration: underline;}
+
+#Burjkhalifa{font-size: x-large;
+    background-color: rgb(214, 148, 25);}
+
+#Tajmahal{
+font-size: x-large;
+background-color: palevioletred;}
+
+#Senso-ji{font-size: x-large;
+background-color: rgb(168, 210, 104);}
+
+#Maldives{font-size: x-large;
+    background-color: green;}
+ a{color: white;
+text-decoration: none;}
+    
+#GLOBETROTTER{ width: 150PX;
+ height: 150px;
+align-self: center;
+color: rgb(42, 93, 95);
+ }
+   
+
+
+    
